@@ -1,0 +1,41 @@
+@font-face {
+  font-family: opensansCB;
+  src: url(fonts/OpenSans-CondBold.ttf);
+}
+
+@font-face {
+  font-family: opensansL;
+  src: url(fonts/OpenSans-CondLight.ttf);
+}
+
+@font-face {
+  font-family: opensansLI;
+  src: url(fonts/OpenSans-CondLightItalic.ttf);
+}
+
+@font-face {
+  font-family: TekoBold;
+  src: url(fonts/Teko-Bold.ttf);
+}
+
+@font-face {
+  font-family: TekoLight;
+  src: url(fonts/Teko-Light.ttf);
+}
+
+@font-face {
+  font-family: TekoMedium;
+  src: url(fonts/Teko-Medium.ttf);
+}
+
+@font-face {
+  font-family: TekoRegular;
+  src: url(fonts/Teko-Regular.ttf);
+}
+
+@font-face {
+  font-family: TekoSemiBold;
+  src: url(fonts/Teko-SemiBold.ttf);
+}
+
+
